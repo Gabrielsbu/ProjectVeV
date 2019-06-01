@@ -235,8 +235,6 @@ public class Principal extends javax.swing.JFrame {
             .addComponent(tela)
         );
 
-        tela.getAccessibleContext().setAccessibleParent(jInternalFrame1);
-
         pack();
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
